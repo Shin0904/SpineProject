@@ -5,8 +5,9 @@
 ##Spineアニメーション初期設定
 
 ###UnityでSpineアニメーションを動かすための準備
-UnityでSpineを使う際にはランタイムが必要なので、
-「https://github.com/EsotericSoftware/spine-runtimes」からZipファイルをダウンロードする。
+UnityでSpineを使う際にはランタイムが必要なので、下記のアドレスからZipファイルをダウンロードする。
+
+https://github.com/EsotericSoftware/spine-runtimes
 
 ###Spineランタイムの設定
 「spine-runtimes-master」内にある「spine-csharp」と「spine-unity」がSpineを使うのに必要なランタイムです。
